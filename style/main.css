@@ -25,11 +25,11 @@ body {
   left: 0;
   position: absolute;
   right: 0;
-  top: 20vh;
+  top: 5vh;
 }
 
 .one {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 .two {
